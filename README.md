@@ -1,2 +1,2 @@
 # new-project
-my ne project
+my project
